@@ -27,3 +27,6 @@ This part summarizes customer feedback and generates business-intelligent report
 - ✔ Includes performance benchmarking of summarized content
 - ✔ Detects recurring complaint patterns to inform business strategy
 - ✔ Generates business-ready reports suitable for stakeholders and decision-maker
+
+app.py contains streamlit deployment
+
